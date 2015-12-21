@@ -18,7 +18,7 @@ A small educational project concieved in order to learn the Processing 3  progra
 #### Project Details:  
 ##### - [Digitalstew Blog](http://digitalstew.blogspot.com/2015/12/the-wave-project-v25.html)  
 
-##### All code released to the public domain, as-is, with no restrictions. 
+##### All code released to the public domain, without support, as-is, with no restrictions. 
 
 #### Project file descriptions:  
 **Bezier_Routines.pde**  
